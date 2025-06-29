@@ -41,6 +41,7 @@ export default function RootLayout({ children }) {
             </footer>
           </ThemeProvider>
         </body>
+        <script id="omnidimension-web-widget" async src="https://backend.omnidim.io/web_widget.js?secret_key=58338d5b8ed4bf6f79f8bcb5cac12cfa" ></script>
       </html>
     </ClerkProvider>
   );
